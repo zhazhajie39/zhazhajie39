@@ -1,1 +1,1 @@
-I like games I like study
+console.log("test")；
